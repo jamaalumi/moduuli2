@@ -1,2 +1,2 @@
-print('')
-input('moro')
+nimi=input("mikä on nimesi")
+print(f"hei {nimi} ")
